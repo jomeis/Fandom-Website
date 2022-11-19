@@ -62,7 +62,7 @@
         <div class="col p-2 d-flex align-items-center ml-3 "id="content"> <!-- START: col-->
      
           
-          
+<!--             <img src="/images/BridgetSplash.png"> -->
          
 
         </div> <!-- END: top row  -->
