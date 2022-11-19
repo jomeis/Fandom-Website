@@ -62,7 +62,7 @@
         <div class="col p-2 d-flex align-items-center ml-3 "id="content"> <!-- START: col-->
      
           
-          
+<!--             <img src="/images/BridgetSplash.png" width="50%"> -->
          
 
         </div> <!-- END: top row  -->
@@ -74,7 +74,7 @@
         <div class="col p-2 d-flex align-items-center ml-3 "id="content"> <!-- START: col-->
      
           
-          
+         
          
 
         </div> <!-- END: top row  -->
@@ -85,7 +85,7 @@
 
 
 
-
+       
 
       
       <div class="row"> <!--START: top row  -->
