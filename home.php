@@ -54,10 +54,7 @@
           
         </div> <!-- END: top row  -->
         <div class="col p-2" id="content"> <!-- START: col-->
-
-          <img src="/images/BridgetSplash.png">
-
-          
+    
         </div> <!-- END: col  -->
       </div> <!--END: row  -->
        <div class="row"> <!--START: top row  -->
