@@ -73,6 +73,18 @@ p.indent {
   width: 70%;
 }
 
+.margtText {
+  margin: 20px;
+}
+
+/* .col {
+  border: solid #000000;
+}
+.row {
+  border: solid #0d0d0d;
+} */
+
+
 /* --almond: #DFCFBFff;
 --liver: #6B4C43ff;
 --gainsboro: #D4DCDFff;

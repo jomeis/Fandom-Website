@@ -47,45 +47,39 @@
 
         </div> <!-- end col 2-->
       </div> <!-- END: top row  -->
+      
+<div class="row">
+  <div class="col p-2 d-flex justify-content-center " id="content"> 
+    <h2>  Recent News </h2>
+  </div>
+</div> 
+<div class="row">
+  <div class="col p-2 d-flex justify-content-center " id="content"> 
+    <h4> A new Challenger approaches-</h4>
+  </div>
+</div> 
+<div class="row">
+  <div class="col p-2 d-flex justify-content-center " id="content"> 
+    <img src="/images/Sin_kiske_strive_2.webp" width="70%">
+  </div>
+  <div class="col p-2 d-flex justify-content-center " id="content"> 
+   <p class="indent margtText">Sin Kiske is one of the main characters of the Guilty Gear series. He is the son of Ky Kiske and Dizzy, inheriting her Gear blood and great power. A carefree young man, Sin was raised by Sol Badguy, alongside whom he works as a bounty hunter. He was relesed to Guilty Gear -Strive- on november 24 and has been speculated as a top teir character with his insane combos and dp</p>
+  </div>
+</div> 
+<div class="container">
+  
+</div>
 
-          <div class="row"> <!--START: top row  -->
-        <div class="col p-2 d-flex align-items-center ml-3 "id="content"> <!-- START: col-->
-     
+
+      
+
+
           
-
-        </div> <!-- END: top row  -->
-        <div class="col p-2" id="content"> <!-- START: col-->
-    
-        </div> <!-- END: col  -->
-      </div> <!--END: row  -->
-       <div class="row"> <!--START: top row  -->
-        <div class="col p-2 d-flex align-items-center ml-3 "id="content"> <!-- START: col-->
-     
-          
-            <img src="/images/BridgetSplash.png" width="50%">
-         
-
-        </div> <!-- END: top row  -->
-        <div class="col p-2" id="content"> <!-- START: col-->
-    
-        </div> <!-- END: top row  -->
-      </div> <!--END: container  -->
-      <div class="row"> <!--START: top row  -->
-        <div class="col p-2 d-flex align-items-center ml-3 "id="content"> <!-- START: col-->
-     
-          
-         
-         
-
-        </div> <!-- END: top row  -->
-        <div class="col p-2" id="content"> <!-- START: col-->
-    
-        </div> <!-- END: top row  -->
-      </div> <!--END: container  -->
+      
 
 
 
-       
+   
 
       
       <div class="row"> <!--START: top row  -->
@@ -95,6 +89,7 @@
          
         </div> <!-- END: top row  -->
       </div> <!--END: container  -->
+      
 
 
 
