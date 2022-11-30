@@ -40,7 +40,7 @@
 
 
             <form action="/redirectContactMe.php" method="post"> 
-            <label for="fname">Name (nickname or any):</label><br>
+            <label for="fname">Name (nickname, Handle or any):</label><br>
             <input type="text" name="fName"><br>
 
             <select name="Main">
@@ -65,6 +65,7 @@
               <option value="Testament">Testament</option>
               <option value="Bridget">Bridget</option>
               <option value="Zato-1">Zato-1</option>
+              <option value="Sin">Sin Kiske</option>
             </select><br>
 
             <label for="w3review">Write Your Message</label><br>

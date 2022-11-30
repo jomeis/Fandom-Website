@@ -53,6 +53,9 @@
     <h2>  Recent News </h2>
   </div>
 </div> 
+
+<!-- new Sin Kiske -->
+      
 <div class="row">
   <div class="col p-2 d-flex justify-content-center " id="content"> 
     <h4> A new Challenger approaches-</h4>
@@ -60,15 +63,30 @@
 </div> 
 <div class="row">
   <div class="col p-2 d-flex justify-content-center " id="content"> 
-    <img src="/images/Sin_kiske_strive_2.webp" width="70%">
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sin Kiske is coming to Guilty Gear -Strive- and is the 2nd character of Season Pass 2!<br><br>He will release on November 24th! <a href="https://t.co/78WHYRI3DG">pic.twitter.com/78WHYRI3DG</a></p>&mdash; Anime FGC News (@AFGCNews) <a href="https://twitter.com/AFGCNews/status/1594798253790445568?ref_src=twsrc%5Etfw">November 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
-  <div class="col p-2 d-flex justify-content-center " id="content"> 
-   <p class="indent margtText">Sin Kiske is one of the main characters of the Guilty Gear series. He is the son of Ky Kiske and Dizzy, inheriting her Gear blood and great power. A carefree young man, Sin was raised by Sol Badguy, alongside whom he works as a bounty hunter. He was relesed to Guilty Gear -Strive- on november 24 and has been speculated as a top teir character with his insane combos and dp</p>
+  <div class="col-6 p-2 d-flex justify-content-center " id="content"> 
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bridget will be available later today!🪀🐻<br>You can check out the starter guide and information for Bridget below!<br>Starter guide:<a href="https://t.co/RnN3N8ucao">https://t.co/RnN3N8ucao</a><br>Character info:<a href="https://t.co/rjx09FiaNj">https://t.co/rjx09FiaNj</a><a href="https://twitter.com/hashtag/GuiltyGearStrive?src=hash&amp;ref_src=twsrc%5Etfw">#GuiltyGearStrive</a> <a href="https://t.co/8N29HTm64x">pic.twitter.com/8N29HTm64x</a></p>&mdash; ArcSystemWorks (@ArcSystemWorksU) <a href="https://twitter.com/ArcSystemWorksU/status/1556606388662444033?ref_src=twsrc%5Etfw">August 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
 </div> 
-<div class="container">
-  
-</div>
+
+<!-- END new Sin Kiske -->
+<!-- Tournoment coming up -->
+      
+<div class="row">
+  <div class="col p-2 d-flex justify-content-center " id="content"> 
+    <h4> Tournaments Coming up</h4>
+  </div>
+</div> 
+<div class="row">
+  <div class="col p-2 d-flex justify-content-center " id="content"> 
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We’ve got more holiday spirit to show at FGC Meetups in December!<br><br>All of the brackets on Dec. 16th will be free-to-enter with a starting prize pool of $50 each 👏<br><br>Let’s put 2022 in the books, chat 🤙 <a href="https://t.co/S28OXM7Y90">pic.twitter.com/S28OXM7Y90</a></p>&mdash; Low Kick Esports (@LowKickEsports) <a href="https://twitter.com/LowKickEsports/status/1596980112624263168?ref_src=twsrc%5Etfw">November 27, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+  <div class="col p-2 d-flex justify-content-center " id="content"> 
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">see yall in two weeks!! please come support this event <a href="https://t.co/y4iW3PIU1N">https://t.co/y4iW3PIU1N</a></p>&mdash; Moist | Hotashi (@hotashis) <a href="https://twitter.com/hotashis/status/1597064066362925058?ref_src=twsrc%5Etfw">November 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+</div> 
+
 
 
       

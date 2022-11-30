@@ -40,31 +40,31 @@
         <div class="col p-2 d-flex align-items-center ml-3 "id="content"> <!-- START: col-->
      
           <div class="card" style="width: 18rem;"> <!-- card 1 (Nagoriyuki)-->
-            <img src="/images/gifs/NagoriyukiGif.gif" width="100px" class="card-img-top NagoriGif" alt="...">
+            <img src=" " width="100px" class="card-img-top NagoriGif" alt="...">
             <div class="card-body">
               <p class="card-text">Nagoriyuki</p>
             </div>
           </div> <!-- end card 1 (Nagoriyuki)-->
           <div class="card" style="width: 18rem;"> <!-- card 2 (Sol Badguy)-->
-            <img src="/images/gifs/SolGif2.gif" class="card-img-top SolGif" alt="...">
+            <img src=" " class="card-img-top SolGif" alt="...">
             <div class="card-body">
               <p class="card-text">Sol Badguy</p>
             </div>
           </div> <!-- end card 2 (Sol Badguy)-->
           <div class="card" style="width: 18rem;"> <!-- card 3 (Ky Kiske)-->
-            <img src="/images/gifs/KyGif2.gif" width="100px" class="card-img-top KyGif" alt="...">
+            <img src=" " width="100px" class="card-img-top KyGif" alt="...">
             <div class="card-body">
               <p class="card-text">Ky Kiske</p>
             </div>
           </div> <!-- end card 3 (Ky Kiske)-->
           <div class="card" style="width: 18rem;"> <!-- card 4 (Zato-1)-->
-            <img src="/images/gifs/Zato-1Gif.gif" class="card-img-top ZatoGif" alt="...">
+            <img src=" " class="card-img-top ZatoGif" alt="...">
             <div class="card-body">
               <p class="card-text">Zato-1</p>
             </div>
           </div> <!-- end card 4 (Zato-1)-->
           <div class="card" style="width: 18rem;"> <!-- card 5 (Axl Low)-->
-            <img src="/images/gifs/AxlPoint.gif" class="card-img-top AxlGif" alt="...">
+            <img src=" " class="card-img-top AxlGif" alt="...">
             <div class="card-body">
               <p class="card-text">Axl Low</p>
             </div>
@@ -78,31 +78,31 @@
         <div class="col p-2 d-flex align-items-center ml-3 "id="content"> <!-- START: col-->
      
           <div class="card" style="width: 18rem;"> <!-- card 6 (May)-->
-            <img src="/images/gifs/MayGif.gif" class="card-img-top MayGif" alt="...">
+            <img src=" " class="card-img-top MayGif" alt="...">
             <div class="card-body">
               <p class="card-text">May</p>
             </div>
           </div> <!-- end card 6 (May)-->
           <div class="card" style="width: 18rem;"> <!-- card 7 Chipp Zanuff)-->
-            <img src="/images/gifs/ChippGif.gif" class="card-img-top ChippGif" alt="...">
+            <img src=" " class="card-img-top ChippGif" alt="...">
             <div class="card-body">
               <p class="card-text">Chipp Zanuff</p>
             </div>
           </div> <!-- end card 7 (Chipp Zanuff)-->
           <div class="card" style="width: 18rem;"> <!-- card 8 (Potemkin)-->
-            <img src="/images/gifs/PotGif.gif" class="card-img-top PotGif" alt="...">
+            <img src=" " class="card-img-top PotGif" alt="...">
             <div class="card-body">
               <p class="card-text">Potemkin</p>
             </div>
           </div> <!-- end card 8 (Potemkin)-->
           <div class="card" style="width: 18rem;"> <!-- card 9 (Faust)-->
-            <img src="/images/gifs/FaustGif.gif" class="card-img-top FaustGif" alt="...">
+            <img src=" " class="card-img-top FaustGif" alt="...">
             <div class="card-body">
               <p class="card-text">Faust</p>
             </div>
           </div> <!-- end card 9 (Faust)-->
           <div class="card" style="width: 18rem;"> <!-- card 10 (Millia Rage)-->
-            <img src="/images/gifs/MilliaGif.gif" class="card-img-top MilliaGif" alt="...">
+            <img src=" " class="card-img-top MilliaGif" alt="...">
             <div class="card-body">
               <p class="card-text">Millia Rage</p>
             </div>
@@ -119,31 +119,31 @@
         <div class="col p-2 d-flex align-items-center ml-3 "id="content"> <!-- START: col-->
      
           <div class="card" style="width: 18rem;"> <!-- card 11 (Giovanna)-->
-            <img src="/images/gifs/GiovannaGif.gif" class="card-img-top GioGif" alt="...">
+            <img src=" " class="card-img-top GioGif" alt="...">
             <div class="card-body">
               <p class="card-text">Giovanna</p>
             </div>
           </div> <!-- end card 11 (Giovanna)-->
           <div class="card" style="width: 18rem;"> <!-- card 12 (Ram)-->
-            <img src="/images/gifs/RamGif.gif" class="card-img-top RamGif" alt="...">
+            <img src=" " class="card-img-top RamGif" alt="...">
             <div class="card-body">
               <p class="card-text">Ramlathal Valentine</p>
             </div>
           </div> <!-- end card 12 (Ram)-->
           <div class="card" style="width: 18rem;"> <!-- card 13 (Anji)-->
-            <img src="/images/gifs/Anji.gif" class="card-img-top AnjiGif" alt="...">
+            <img src=" " class="card-img-top AnjiGif" alt="...">
             <div class="card-body">
               <p class="card-text">Anji Mito</p>
             </div>
           </div> <!-- end card 13 (Janji)-->
           <div class="card" style="width: 18rem;"> <!-- card 14 (Leo)-->
-            <img src="/images/gifs/LeoGif.gif" class="card-img-top LeoGif" alt="...">
+            <img src=" " class="card-img-top LeoGif" alt="...">
             <div class="card-body">
               <p class="card-text">Leo Whitefang</p>
             </div>
           </div> <!-- end card 14 (Leo)-->
           <div class="card" style="width: 18rem;"> <!-- card 15 (I-no)-->
-            <img src="/images/gifs/I-no.gif" class="card-img-top I-noGif" alt="...">
+            <img src=" " class="card-img-top I-noGif" alt="...">
             <div class="card-body">
               <p class="card-text">I-no</p>
             </div>
