@@ -1,4 +1,15 @@
-<?php include $_SERVER['DOCUMENT_ROOT'].'/functions/functions.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/functions/functions.php'; 
+
+  if ($_GET) {
+  $showData = "yes";
+  $name = $_GET['name'];
+  $message = $_GET['message'];
+  $main = $_GET['main'];
+} else {
+  $showData = "no";
+}
+  
+  ?>
 
 
 <!doctype html>
@@ -39,9 +50,9 @@
      
 
 
-            <form action="/redirectContactMe.php" method="post"> 
-            <label for="fname">Name (nickname, Handle or any):</label><br>
-            <input type="text" name="fName"><br>
+            <form action="/redirectForm.php" method="post"> 
+            <label for="Name">Name (Handle):</label><br>
+            <input type="text" name="name"><br>
 
             <select name="Main">
               <option value="Goldlewis">Goldlewis</option>
@@ -68,16 +79,24 @@
               <option value="Sin">Sin Kiske</option>
             </select><br>
 
-            <label for="w3review">Write Your Message</label><br>
+            <label for="w3review">Have something to say? Write it here!</label><br>
             <textarea name="message" rows="4" cols="50">
             </textarea> <br>
-
-
-
-
-
-          
+               <input type="submit" value="send">
+            </form>
         </div> <!-- END: top row  -->
+
+        
+      <div class="col" id="content">
+        <?php if($showData == 'yes'){
+          echo '<h3>What you put</h3>';
+          echo " Name/Handle: $name<br>";
+          echo "Who you play: $main<br>";
+          echo "message: $message<br>";
+        }
+
+        ?>
+      </div>
       </div> <!--END: container  -->
 
       <div class="row"> <!--START: top row  -->
