@@ -30,7 +30,7 @@
 
       <div class="row mt-4"> <!--START: top row  -->
         <div class="col p-2" align="center" id="top"> <!-- START: col-->
-            <img src="/images/guiltyGearTitle2.png">
+             <a href="https://www.guiltygear.com/ggst/en/" target="_blank"><img src="/images/guiltyGearTitle2.png"></a>
         </div> <!-- END: top row  -->
       </div> <!--END: container  -->
 
@@ -66,7 +66,7 @@
     <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sin Kiske is coming to Guilty Gear -Strive- and is the 2nd character of Season Pass 2!<br><br>He will release on November 24th! <a href="https://t.co/78WHYRI3DG">pic.twitter.com/78WHYRI3DG</a></p>&mdash; Anime FGC News (@AFGCNews) <a href="https://twitter.com/AFGCNews/status/1594798253790445568?ref_src=twsrc%5Etfw">November 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
   <div class="col-6 p-2 d-flex justify-content-center " id="content"> 
-    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bridget will be available later today!🪀🐻<br>You can check out the starter guide and information for Bridget below!<br>Starter guide:<a href="https://t.co/RnN3N8ucao">https://t.co/RnN3N8ucao</a><br>Character info:<a href="https://t.co/rjx09FiaNj">https://t.co/rjx09FiaNj</a><a href="https://twitter.com/hashtag/GuiltyGearStrive?src=hash&amp;ref_src=twsrc%5Etfw">#GuiltyGearStrive</a> <a href="https://t.co/8N29HTm64x">pic.twitter.com/8N29HTm64x</a></p>&mdash; ArcSystemWorks (@ArcSystemWorksU) <a href="https://twitter.com/ArcSystemWorksU/status/1556606388662444033?ref_src=twsrc%5Etfw">August 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bridget will be available later today!🪀🐻<br>You can check out the starter guide and information for Bridget below!<br>Starter guide:<a href="https://t.co/RnN3N8ucao">https://t.co/RnN3N8ucao</a><br>Character info:<a href="https://t.co/rjx09FiaNj">https://t.co/rjx09FiaNj</a><a href="https://twitter.com/hashtag/GuiltyGearStrive?src=hash&amp;ref_src=twsrc%5Etfw">#GuiltyGearStrive</a> <a href="https://t.co/8N29HTm64x">pic.twitter.com/8N29HTm64x</a></p>&mdash; ArcSystemWorks (@ArcSystemWorksU) <a href="https://twitter.com/ArcSystemWorksU/status/1556606388662444033?ref_src=twsrc%5Etfw">August 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>.
   </div>
 </div> 
 

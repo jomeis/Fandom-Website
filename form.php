@@ -53,7 +53,7 @@
             <form action="/redirectForm.php" method="post"> 
             <label for="Name">Name (Handle):</label><br>
             <input type="text" name="name"><br>
-
+            Who do you play---
             <select name="Main">
               <option value="Goldlewis">Goldlewis</option>
               <option value="Millia">Millia Rage</option>

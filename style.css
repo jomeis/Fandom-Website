@@ -41,16 +41,38 @@ p.indent {
   margin: 20px;
 }
 
+hovImg:hover {
+  width: 40%;
+}
+
+.RazzoTable {
+  padding-top: 50px;
+}
+
+h2{ font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif"; 
+  }
+
+.LinkBlue {
+  color: #0040ff;
+}
+
 /* .col {
+  border: solid #000000;
+}
+.col-1 {
+  border: solid #000000;
+}
+.col-2 {
+  border: solid #000000;
+}
+.col-3 {
+  border: solid #000000;
+}
+.col-4 {
   border: solid #000000;
 }
 .row {
   border: solid #0d0d0d;
 } */
 
-
-/* --almond: #DFCFBFff;
---liver: #6B4C43ff;
---gainsboro: #D4DCDFff;
---cadet-grey: #8C9FAEff;
---white: #FFFFFFff; */
+/* https://www.youtube.com/watch?v=mqd_Bex8BzI */
