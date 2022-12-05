@@ -13,6 +13,14 @@ body {
 
 /*   background-image: linear-gradient(to bottom right, red, yellow); */
 
+.CharPaddingText{
+  padding-top: 100px;
+}
+
+.charName{
+  color: #bababa;
+}
+
 .nav{
   background-color: black;
 }
@@ -90,7 +98,7 @@ h2{ font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "He
   list-style-type:none;
 }
 
-.col {
+/* .col {
   border: solid #000000;
 }
 .col-1 {
@@ -107,6 +115,6 @@ h2{ font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "He
 }
 .row {
   border: solid #0d0d0d;
-}
+} */
 
 /* https://www.youtube.com/watch?v=mqd_Bex8BzI */
