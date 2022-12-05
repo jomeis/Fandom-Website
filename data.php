@@ -36,13 +36,7 @@
 
       <div class="row"> <!--START: top row  -->
         <div class="col p-2" id="content"> <!-- START: col-->
-         <button class="accordion">Section 1</button>
-<div class="panel">
-  <p>Lorem ipsum...</p>
-</div>
-
-
-    
+         
         </div> <!-- END: top row  -->
       </div> <!--END: container  -->
 
@@ -60,17 +54,5 @@
 
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
-    <script src="accordian.js"></script>
   </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-

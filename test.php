@@ -1,4 +1,4 @@
-
+<?php include $_SERVER['DOCUMENT_ROOT'].'/functions/functions.php'; ?>
 
 
 <!doctype html>
@@ -36,18 +36,7 @@
 
       <div class="row"> <!--START: top row  -->
         <div class="col p-2" id="content"> <!-- START: col-->
-          <?php
-// the message
-$msg = "First line of text\nSecond line of text";
-
-// use wordwrap() if lines are longer than 70 characters
-$msg = wordwrap($msg,70);
-
-// send email
-mail("361786@guhsd.com","My subject",$msg);
-?>
-
-<?php include $_SERVER['DOCUMENT_ROOT'].'/functions/functions.php'; ?>
+          content
         </div> <!-- END: top row  -->
       </div> <!--END: container  -->
 
@@ -67,3 +56,5 @@ mail("361786@guhsd.com","My subject",$msg);
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
   </body>
 </html>
+
+
