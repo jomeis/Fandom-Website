@@ -152,7 +152,9 @@ On the flip side, Chipp’s defense value is the weakest in the game. Mistakes a
       <div class="row"> <!--START: top row  -->
         <div class="col p-2" id="foot"> <!-- START: col-->
  
-          footer
+          <?php 
+            echo $ChatacterFooter
+          ?>
          
         </div> <!-- END: top row  -->
       </div> <!--END: container  -->

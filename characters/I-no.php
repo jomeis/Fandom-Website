@@ -37,7 +37,7 @@
       <div class="row"> <!--START: top row  -->
         <div class="col p-2 bg-image d-flex justify-content-center" 
 style="background-image: url('https://media.istockphoto.com/id/1201137415/photo/bright-dark-red-industrial-background-for-design-and-text-uneven-sheet-of-metal-with-red.jpg?s=170667a&w=0&k=20&c=ppI7ReU-jTEWgauI48JPxVSTZOtJaV7ju68SdCmb6nk='); id="content"> <!-- START: col-->
-          <h2 class="charName">Chipp Zanuff</h2>
+          <h2 class="charName">I-no</h2>
         </div> <!-- END: top row  -->
       </div> <!--END: container  -->
       <div class="row"> <!--START: top row  -->
@@ -73,7 +73,9 @@ However despite her strengths, neutral is probably the hardest thing to learn as
       <div class="row"> <!--START: top row  -->
         <div class="col p-2" id="foot"> <!-- START: col-->
  
-          footer
+          <?php 
+            echo $ChatacterFooter
+          ?>
          
         </div> <!-- END: top row  -->
       </div> <!--END: container  -->

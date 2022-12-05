@@ -71,7 +71,9 @@ Proficient switching between neutral and stance is key to mastering Leo, but ent
       <div class="row"> <!--START: top row  -->
         <div class="col p-2" id="foot"> <!-- START: col-->
  
-          footer
+          <?php 
+            echo $ChatacterFooter
+          ?>
          
         </div> <!-- END: top row  -->
       </div> <!--END: container  -->

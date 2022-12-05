@@ -70,7 +70,9 @@ While Testament’s range is excellent, the same cannot be said for their frame 
       <div class="row"> <!--START: top row  -->
         <div class="col p-2" id="foot"> <!-- START: col-->
  
-          footer
+          <?php 
+            echo $ChatacterFooter
+          ?>
          
         </div> <!-- END: top row  -->
       </div> <!--END: container  -->

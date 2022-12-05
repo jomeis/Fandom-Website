@@ -67,7 +67,9 @@ Axl’s weakness is his defense. Due to his generally high whiff recovery, knowl
       <div class="row"> <!--START: top row  -->
         <div class="col p-2" id="foot"> <!-- START: col-->
  
-          footer
+          <?php 
+            echo $ChatacterFooter
+          ?>
          
         </div> <!-- END: top row  -->
       </div> <!--END: container  -->
