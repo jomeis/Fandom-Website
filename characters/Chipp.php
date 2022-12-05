@@ -35,14 +35,19 @@
       </div> <!--END: container  -->
 
       <div class="row"> <!--START: top row  -->
-        <div class="col p-2" id="content"> <!-- START: col-->
-         <button class="accordion">Section 1</button>
-<div class="panel">
-  <p>Lorem ipsum...</p>
-</div>
+        <div class="col p-2 bg-image d-flex justify-content-center" 
+style="background-image: url('https://media.istockphoto.com/id/1201137415/photo/bright-dark-red-industrial-background-for-design-and-text-uneven-sheet-of-metal-with-red.jpg?s=170667a&w=0&k=20&c=ppI7ReU-jTEWgauI48JPxVSTZOtJaV7ju68SdCmb6nk='); id="content"> <!-- START: col-->
+          <h2>Chipp Zanuff</h2>
+        </div> <!-- END: top row  -->
+      </div> <!--END: container  -->
+      <div class="row"> <!--START: top row  -->
+        <div class="col p-2 bg-image d-flex justify-content-center" 
+style="background-image: url('https://pbs.twimg.com/media/E6bEsX7XIAAVRSU?format=jpg&name=large'); id="content"> <!-- START: col-->
+           <div class="row"> <!--START: top row  -->
+            <div class="col p-2 d-flex justify-content-center" id="content"> <!-- START: col-->
 
-
-    
+            </div> <!-- END: top row  -->
+          </div> <!--END: container  -->
         </div> <!-- END: top row  -->
       </div> <!--END: container  -->
 
@@ -60,17 +65,5 @@
 
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
-    <script src="accordian.js"></script>
   </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-

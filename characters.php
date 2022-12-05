@@ -128,7 +128,7 @@
           <div class="card" style="width: 18rem;"> <!-- card 7 Chipp Zanuff)-->
             <img src="/images/Characters/OffChipp.png" class="card-img-top ChippGif" alt="...">
             <div class="card-body">
-              <p class="card-text">Chipp Zanuff</p>
+              <p class="card-text"><a href="/characters/Chipp.php">Chipp Zanuff</a></p>
             </div>
           </div> <!-- end card 7 (Chipp Zanuff)-->
           <div class="card" style="width: 18rem;"> <!-- card 8 (Potemkin)-->
@@ -209,7 +209,7 @@
           <div class="card" style="width: 18rem;"> <!-- card 13 (?)-->
            
             <div class="card-body">
-              <p class="card-text">Coming 2023</p>
+              <p class="card-text">Coming 2023 </p>
             </div>
           </div> <!-- end card 13 (?)-->
          <div class="card" style="width: 18rem;"> <!-- card 13 (?)-->
