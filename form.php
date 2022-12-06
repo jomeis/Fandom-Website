@@ -78,6 +78,7 @@
               <option value="Zato-1">Zato-1</option>
               <option value="Sin">Sin Kiske</option>
             </select><br>
+              
 
             <label for="w3review">Have something to say? Write it here!</label><br>
             <textarea name="message" rows="4" cols="50">
@@ -93,6 +94,7 @@
           echo " Name/Handle: $name<br>";
           echo "Who you play: $main<br>";
           echo "message: $message<br>";
+          echo "Your Unique Id: ".uniqid($name,FALSE)." <br>";
         }
 
         ?>

@@ -35,8 +35,13 @@
       </div> <!--END: container  -->
 
       <div class="row"> <!--START: top row  -->
-        <div class="col p-2" id="content"> <!-- START: col-->
-          content
+        <div class="col p-2 d-flex justify-content-center" id="content"> <!-- START: col-->
+          <h2>How to get better</h2>
+        </div> <!-- END: top row  -->
+      </div> <!--END: container  -->
+      <div class="row"> <!--START: top row  -->
+        <div class="col p-2 d-flex justify-content-center" id="content"> <!-- START: col-->
+          <h2>How to get better</h2>
         </div> <!-- END: top row  -->
       </div> <!--END: container  -->
 

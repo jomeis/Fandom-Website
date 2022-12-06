@@ -64,6 +64,14 @@ p.indent {
   margin-bottom: 40px;
 }
 
+chart.render(); {
+
+  position: relative;
+  down: 100px;
+  border: 3px solid #73AD21;
+
+}
+
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
 .active, .accordion:hover {
   background-color: #ccc;
@@ -98,7 +106,7 @@ h2{ font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "He
   list-style-type:none;
 }
 
-/* .col {
+.col {
   border: solid #000000;
 }
 .col-1 {
@@ -115,6 +123,6 @@ h2{ font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "He
 }
 .row {
   border: solid #0d0d0d;
-} */
+}
 
 /* https://www.youtube.com/watch?v=mqd_Bex8BzI */
